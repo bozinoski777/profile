@@ -1,7 +1,7 @@
 /* --- Google Fonts --- */
-@import url('@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Mulish:wght@300;400;700;900&display=swap');');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Mulish:wght@300;400;700;900&display=swap');
 /* --- Components design --- */
-@import url('components/container.css')
+@import url('components/container.css');
 
 /* --- Fonts & colors --- */
 body {
