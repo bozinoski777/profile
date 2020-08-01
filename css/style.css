@@ -1,8 +1,13 @@
+/* --- Google Fonts --- */
+@import url('@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Mulish:wght@300;400;700;900&display=swap');');
+/* --- Components design --- */
+@import url('components/container.css')
+
+/* --- Fonts & colors --- */
 body {
   background-color: #ebecf1;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Mulish', sans-serif;
   color: #222831;
-  @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 }
 
 h1 {
@@ -31,15 +36,7 @@ a:hover {
   color: #206a5d;
   text-decoration: underline;
 }
-.container {
-  background: white;
-  border:  1px;
-  border-radius: 1%;
-  box-shadow: 2px 2px 2px lightgray;
-  margin: 0 auto;
-  width: 800px;
-  text-align: center;
-}
+
 .card {
   background: white;
   border:  1px;
