@@ -2,7 +2,9 @@ body {
   background-color: #ebecf1;
   font-family: 'PT Sans', sans-serif;
   color: #222831;
+  @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 }
+
 h1 {
   color: #206a5d;
   font-size: 73px;
